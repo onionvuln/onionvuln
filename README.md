@@ -37,9 +37,9 @@
 
 ### 🔗 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/onionvuln)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://instagram.com/onionvuln)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:onionvuln@protonmail.com)
 
 ---
 
