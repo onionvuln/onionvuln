@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm OnionVuln</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Python Developer</h3>
 
+<img width="1865" height="838" alt="image" src="https://github.com/user-attachments/assets/d8ec5b06-95cf-479a-b563-374c6428f945" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&color=F75757&center=true&vCenter=true&width=500&lines=Ethical+Hacking+is+my+Passion;Python+is+my+Weapon;Cybersecurity+is+my+Mission!" alt="Typing SVG" />
 </p>
