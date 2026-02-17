@@ -1,10 +1,20 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&background=FF0000&center=true&vCenter=true&width=600&height=50&lines=CRITICAL+VULNERABILITY+RESEARCH;ONION+NETWORK+ANALYSIS+ACTIVE">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=720917&secondaryColor=000000&height=250&section=header&text=ONIONVULN&fontSize=90&animation=fadeIn&fontAlignY=35&desc=SYSTEM%20VULNERABILITY%20ANALYSIS&descAlignY=60&descAlign=50" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=tor-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/KALI-720917?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-FF0000?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-###
  <div align="center">
 <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/c7151a53-ba17-4237-8990-1a57f88f3db6" />
 </div>
-###
+
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
